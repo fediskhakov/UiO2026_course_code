@@ -26,7 +26,7 @@ In my work on structural macromodels. Also want to learn more about structural e
 
 ## 5. What is your previous econometrics training? Briefly list the models and methods you have studied, ideally indicating which ones you have had practical experience with, and using which software packages.
 
-Mostly on microeconometrics, PhD level course. Parametric methods, non-parametrics.  
+Mostly on microeconometrics, PhD level courses. Parametric methods, non-parametrics, MLE, GMM... 
 
 In work mostly on Bayesian estimation of DSGE models. Using MCMC methods etc. 
 
