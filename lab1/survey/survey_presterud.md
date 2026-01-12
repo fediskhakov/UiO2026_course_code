@@ -6,15 +6,16 @@
 
 ## 1. What is your name and preferred name if any?
 
-== Christian ==
+Christian 
 
 ## 2. What is your current title and affiliation/position? What year of the program are you in? Also add a link to your webpage if you have one.
 
-== your response here ==
+PhD student. Currently in the  4th semester (second year) 
+https://www.sv.uio.no/econ/personer/vit/chrispre/index.html
 
 ## 3. What is your primary field of research interests?
 
-== your response here ==
+Macroeconomics, monetary policy, macroprudential policy, inequality, DSGE/HANKS etc. models. 
 
 ## 4. What interests you in structural estimation?
 
